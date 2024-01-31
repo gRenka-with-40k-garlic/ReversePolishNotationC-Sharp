@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "P:\\gennady_documents\\Coding tools\\Coding projects\\VSProjects\\ReversePolishNotationC-Sharp\\RPNtry51\\RPNtry51\\RPNtry51.csproj": {}
+    "P:\\gennady_documents\\Coding tools\\Coding projects\\VSProjects\\ReversePolishNotationC-Sharp\\RPNtry51\\RPNtry51\\RPN.csproj": {}
   },
   "projects": {
-    "P:\\gennady_documents\\Coding tools\\Coding projects\\VSProjects\\ReversePolishNotationC-Sharp\\RPNtry51\\RPNtry51\\RPNtry51.csproj": {
+    "P:\\gennady_documents\\Coding tools\\Coding projects\\VSProjects\\ReversePolishNotationC-Sharp\\RPNtry51\\RPNtry51\\RPN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\gennady_documents\\Coding tools\\Coding projects\\VSProjects\\ReversePolishNotationC-Sharp\\RPNtry51\\RPNtry51\\RPNtry51.csproj",
-        "projectName": "RPNtry51",
-        "projectPath": "P:\\gennady_documents\\Coding tools\\Coding projects\\VSProjects\\ReversePolishNotationC-Sharp\\RPNtry51\\RPNtry51\\RPNtry51.csproj",
+        "projectUniqueName": "P:\\gennady_documents\\Coding tools\\Coding projects\\VSProjects\\ReversePolishNotationC-Sharp\\RPNtry51\\RPNtry51\\RPN.csproj",
+        "projectName": "RPN",
+        "projectPath": "P:\\gennady_documents\\Coding tools\\Coding projects\\VSProjects\\ReversePolishNotationC-Sharp\\RPNtry51\\RPNtry51\\RPN.csproj",
         "packagesPath": "C:\\Users\\Genna\\.nuget\\packages\\",
         "outputPath": "P:\\gennady_documents\\Coding tools\\Coding projects\\VSProjects\\ReversePolishNotationC-Sharp\\RPNtry51\\RPNtry51\\obj\\",
         "projectStyle": "PackageReference",

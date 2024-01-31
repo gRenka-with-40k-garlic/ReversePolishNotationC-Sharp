@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\gennady_documents\\Coding tools\\Coding projects\\VSProjects\\RPNtry51\\RPNtry51\\RPNtry51.csproj",
-      "projectName": "RPNtry51",
-      "projectPath": "P:\\gennady_documents\\Coding tools\\Coding projects\\VSProjects\\RPNtry51\\RPNtry51\\RPNtry51.csproj",
+      "projectUniqueName": "P:\\gennady_documents\\Coding tools\\Coding projects\\VSProjects\\ReversePolishNotationC-Sharp\\RPNtry51\\RPNtry51\\RPN.csproj",
+      "projectName": "RPN",
+      "projectPath": "P:\\gennady_documents\\Coding tools\\Coding projects\\VSProjects\\ReversePolishNotationC-Sharp\\RPNtry51\\RPNtry51\\RPN.csproj",
       "packagesPath": "C:\\Users\\Genna\\.nuget\\packages\\",
-      "outputPath": "P:\\gennady_documents\\Coding tools\\Coding projects\\VSProjects\\RPNtry51\\RPNtry51\\obj\\",
+      "outputPath": "P:\\gennady_documents\\Coding tools\\Coding projects\\VSProjects\\ReversePolishNotationC-Sharp\\RPNtry51\\RPNtry51\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("RPNtry51")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("RPN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08d2ae45f1724e8349482c1838efa326adc4fbaf")]
-[assembly: System.Reflection.AssemblyProductAttribute("RPNtry51")]
-[assembly: System.Reflection.AssemblyTitleAttribute("RPNtry51")]
+[assembly: System.Reflection.AssemblyProductAttribute("RPN")]
+[assembly: System.Reflection.AssemblyTitleAttribute("RPN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
