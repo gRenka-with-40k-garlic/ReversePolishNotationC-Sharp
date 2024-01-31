@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RPNtry51/1.0.0": {
+        "runtime": {
+          "RPNtry51.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RPNtry51/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

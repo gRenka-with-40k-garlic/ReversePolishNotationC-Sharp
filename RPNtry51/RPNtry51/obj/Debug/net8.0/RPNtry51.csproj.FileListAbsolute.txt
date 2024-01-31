@@ -1,0 +1,14 @@
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\RPNtry51\RPNtry51\bin\Debug\net8.0\RPNtry51.exe
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\RPNtry51\RPNtry51\bin\Debug\net8.0\RPNtry51.deps.json
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\RPNtry51\RPNtry51\bin\Debug\net8.0\RPNtry51.runtimeconfig.json
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\RPNtry51\RPNtry51\bin\Debug\net8.0\RPNtry51.dll
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\RPNtry51\RPNtry51\bin\Debug\net8.0\RPNtry51.pdb
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\RPNtry51\RPNtry51\obj\Debug\net8.0\RPNtry51.GeneratedMSBuildEditorConfig.editorconfig
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\RPNtry51\RPNtry51\obj\Debug\net8.0\RPNtry51.AssemblyInfoInputs.cache
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\RPNtry51\RPNtry51\obj\Debug\net8.0\RPNtry51.AssemblyInfo.cs
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\RPNtry51\RPNtry51\obj\Debug\net8.0\RPNtry51.csproj.CoreCompileInputs.cache
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\RPNtry51\RPNtry51\obj\Debug\net8.0\RPNtry51.dll
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\RPNtry51\RPNtry51\obj\Debug\net8.0\refint\RPNtry51.dll
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\RPNtry51\RPNtry51\obj\Debug\net8.0\RPNtry51.pdb
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\RPNtry51\RPNtry51\obj\Debug\net8.0\RPNtry51.genruntimeconfig.cache
+P:\gennady_documents\Coding tools\Coding projects\VSProjects\RPNtry51\RPNtry51\obj\Debug\net8.0\ref\RPNtry51.dll
